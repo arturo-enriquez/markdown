@@ -110,10 +110,11 @@ Markdown | Less | Pretty
 
 ---
 <!-- YouTube Video -->
+## YouTube Video
 <!-- html -->
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=gYO1uk7vIcc
-" target="_blank"><img src="http://img.youtube.com/vi/gYO1uk7vIcc/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+" target="_blank"><img src="https://img.youtube.com/vi/gYO1uk7vIcc/maxresdefault.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="6" /></a>
 
 <!-- markdown -->
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/gYO1uk7vIcc/0.jpg)](http://www.youtube.com/watch?v=gYO1uk7vIcc)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/gYO1uk7vIcc/maxresdefault.jpg)](http://www.youtube.com/watch?v=gYO1uk7vIcc)
