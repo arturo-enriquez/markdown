@@ -110,6 +110,13 @@ Markdown | Less | Pretty
 
 ---
 <!-- YouTube Video -->
+<!-- 
+  Thumbnail
+    https://img.youtube.com/vi/[insert-youtube-video-id-here]/0.jpg
+    https://img.youtube.com/vi/[insert-youtube-video-id-here]/1.jpg
+    https://img.youtube.com/vi/[insert-youtube-video-id-here]/2.jpg
+    https://img.youtube.com/vi/[insert-youtube-video-id-here]/3.jpg
+ -->
 ## YouTube Video
 <!-- html -->
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=gYO1uk7vIcc
